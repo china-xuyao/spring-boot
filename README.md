@@ -27,7 +27,12 @@
 # Initialize Project And Build Project 
 mvn package
 ```
-##  Rquest url
+
+## Init Database
+- file path: src/main/resources/sql/user.sql
+
+
+##  Request url
 
 ```
 http://localhost:8080/api/user
