@@ -1,0 +1,5 @@
+M2_HOME
+D:\apache-maven-3.5.2
+
+path
+%M2_HOME%\bin
