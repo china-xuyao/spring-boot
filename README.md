@@ -15,15 +15,22 @@
 - Reference file path: /systemInit
 
 ## Intall Eclipse tools 
+
 - 1.At eclipse software
 - 2.Open menu: help >>> eclipse marketplace
 - 3.Search: spring-tool-suite
+
 
 ## Build Setup
 
 ``` base
 # Initialize Project And Build Project 
 mvn package
+```
+##  Rquest url
+
+```
+http://localhost:8080/api/user
 ```
 
 ## RESTful Sample
