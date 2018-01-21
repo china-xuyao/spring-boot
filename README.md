@@ -1,4 +1,4 @@
-# SDC java 
+# Spring mvc + Mybatis + MyEclipse
 
 > a spring boot project.
 
@@ -13,6 +13,11 @@
 - Maven
 - MySql
 - Reference file path: /systemInit
+
+## Intall Eclipse tools 
+- 1.At eclipse software
+- 2.Open menu: help >>> eclipse marketplace
+- 3.Search: spring-tool-suite
 
 ## Build Setup
 
